@@ -52,7 +52,7 @@ The project utilizes the following technologies:
 
 To run the simulations or contribute to the project, follow these steps:
 
-1. Clone this GitHub repository: `git clone https://github.com/FanFeast/Quadruped_Robot.git`.
+1. Clone this GitHub repository: `git clone https://github.com/FanFeast/Quadruped_Robot.git`
 2. Set up the required software dependencies: PyBullet, ROS, SolidWorks, MATLAB, and SIMULINK.
 3. Explore the various files and folders to understand the project's structure.
 4. Refer to the documentation and Notion page for in-depth analysis and calculations.
