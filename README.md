@@ -9,7 +9,7 @@
 
 This GitHub project focuses on the design, analysis, and implementation of a quadruped walking robot. The project involves CAD design, kinematic analysis, and simulation of the robot's movements using Python (PyBullet), ROS, SolidWorks, MATLAB, and SIMULINK (Robotics Toolbox).
 
-As a team lead of four students, the main objectives were:
+As a team lead of four students, the main objectives were to:
 
 1. Redesign the robot's legs to increase its workspace and capabilities.
 2. Implement yaw, pitch, and roll motions for the quadruped robot.
@@ -24,7 +24,7 @@ The motivation behind this project stems from the growing importance of legged r
 
 ## Mechanical Design
 
-The new leg design enhances the robot's workspace and maintains the functionality of the previous design. This increased range of motion allows the robot to maneuver in cramped quarters and low-lying areas effectively. Additionally, the improved legs enable the robot to perform backflips, demonstrating its versatility in various scenarios.
+The new leg design enhances the robot's workspace and maintains the functionality of the previous design. This increased range of motion allows the robot to manoeuvre in cramped quarters and low-lying areas effectively. Additionally, the improved legs enable the robot to perform backflips, demonstrating its versatility in various scenarios.
 
 ![Leg Design](leg_design.jpg)
 
